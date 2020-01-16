@@ -35,4 +35,4 @@ s = s.join(meat_lovers.topping)
   
 print(s) 
 
-print(f'I would like a {meat_lovers.size}, {meat_lovers.style} pizza with {s}.')
+print(f'I would like a {meat_lovers.size} inch, {meat_lovers.style} pizza with {s}.')
